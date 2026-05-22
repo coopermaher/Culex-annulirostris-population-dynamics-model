@@ -1,0 +1,116 @@
+﻿Value,Definition,Lifestage,Temperature
+0.038461538,Development rate,Larvae,18
+0.25,Development rate,Pupae,18
+0.102564103,Development rate,Larvae,24.5
+0.5,Development rate,Pupae,24.5
+0.125,Development rate,Larvae,28.5
+0.888888889,Development rate,Pupae,28.5
+0.2,Development rate,Larvae,35
+1,Development rate,Pupae,35
+0.065789474,Development rate,Larvae,27.4
+0.5,Development rate,Pupae,27.4
+0.078125,Development rate,Larvae,27.4
+0.454545455,Development rate,Pupae,27.4
+0.053313722,Mortality rate,Larvae,18
+0.428699607,Mortality rate,Pupae,18
+0.016826113,Mortality rate,Larvae,24.5
+0.010101354,Mortality rate,Pupae,24.5
+0.010247009,Mortality rate,Larvae,28.5
+0.008040269,Mortality rate,Pupae,28.5
+0.012122043,Mortality rate,Larvae,35
+0,Mortality rate,Pupae,35
+0.022956901,Mortality rate,Larvae,27.4
+0,Mortality rate,Pupae,27.4
+0.156169272,Mortality rate,Larvae,27.4
+0,Mortality rate,Pupae,27.4
+1,Mortality rate,Egg rafts,15
+0.190822496,Mortality rate,Egg rafts,20
+0.081259465,Mortality rate,Egg rafts,25
+0.113159937,Mortality rate,Egg rafts,30
+0.66542308,Mortality rate,Egg rafts,35
+1,Mortality rate,Egg rafts,40
+0.071550422,Mortality rate,Egg rafts,27
+0.344827586,Development rate,Eggs,20
+0.5,Development rate,Eggs,25
+0.588235294,Development rate,Eggs,30
+0.833333333,Development rate,Eggs,35
+0.5,Development rate,Eggs,27
+0.048543689,Development rate,Larvae,20
+0.212765957,Development rate,Pupae,20
+0.068493151,Development rate,Larvae,25
+0.476190476,Development rate,Pupae,25
+0.112359551,Development rate,Larvae,30
+0.526315789,Development rate,Pupae,30
+0.163934426,Development rate,Larvae,35
+1,Development rate,Pupae,35
+0.081300813,Development rate,Larvae,27
+0.5,Development rate,Pupae,27
+1,Mortality rate,Larvae,15
+0.052354721,Mortality rate,Larvae,20
+0.009573908,Mortality rate,Pupae,20
+0.011093637,Mortality rate,Larvae,25
+0.00864951,Mortality rate,Pupae,25
+0.025193599,Mortality rate,Larvae,30
+0.006886968,Mortality rate,Pupae,30
+0.09071505,Mortality rate,Larvae,35
+0.160168752,Mortality rate,Pupae,35
+1,Mortality rate,Larvae,40
+0.017314575,Mortality rate,Larvae,27
+0.00959141,Mortality rate,Pupae,27
+0.099700897,Development rate (temporary pool),Larvae,27.5
+0.526315789,Development rate (temporary pool),Pupae,27.5
+0.094073377,Development rate (semi-permanent pool),Larvae,26
+0.523560209,Development rate (semi-permanent pool),Pupae,26
+0.093896714,Development rate (flooded grassland),Larvae,26
+0.512820513,Development rate (flooded grassland),Pupae,26
+0.086421802,Mortality rate (temporary pool),Larvae,27.5
+0.099601052,Mortality rate (temporary pool),Pupae,27.5
+0.290546943,Mortality rate (semi-permanent pool),Larvae,26
+0.424570794,Mortality rate (semi-permanent pool),Pupae,26
+0.217575952,Mortality rate (flooded grassland),Larvae,26
+0.437031731,Mortality rate (flooded grassland),Pupae,26
+0.2,Development rate,Eggs,15
+0.034965035,Development rate,Larvae,15
+0.294117647,Development rate,Pupae,15
+0.444444444,Development rate,Eggs,20
+0.086355786,Development rate,Larvae,20
+0.334448161,Development rate,Pupae,20
+0.5,Development rate,Eggs,25
+0.102040816,Development rate,Larvae,25
+0.595238095,Development rate,Pupae,25
+0.729927007,Development rate,Eggs,30
+0.166389351,Development rate,Larvae,30
+0.534759358,Development rate,Pupae,30
+0.8,Development rate,Eggs,35
+0.178890877,Development rate,Larvae,35
+0.578034682,Development rate,Pupae,35
+1,Mortality Rate,Larvae,10
+0.108429818,Mortality Rate,Larvae,15
+0.119254444,Mortality Rate,Pupae,15
+0.038539473,Mortality Rate,Larvae,20
+0.027205899,Mortality Rate,Pupae,20
+0.040106387,Mortality Rate,Larvae,25
+0.017903247,Mortality Rate,Pupae,25
+0.086855062,Mortality Rate,Larvae,30
+0.030919557,Mortality Rate,Pupae,30
+0.225604869,Mortality Rate,Larvae,35
+0.057136321,Mortality Rate,Pupae,35
+1,Mortality Rate,Larvae,40
+0.042735043,Mortality rate,Adults,20
+0.039525692,Mortality rate,Adults,25
+0.068027211,Mortality rate,Adults,30
+0.055805877,Mortality rate,Egg rafts,20
+0.062215039,Mortality rate,Egg rafts,25
+0.280432827,Mortality rate,Egg rafts,30
+0.106723586,Development rate,Larvae,24.4
+0.523560209,Development rate,Pupae,24.4
+0.201679816,Mortality rate,Larvae,24.4
+0.160986754,Mortality rate,Pupae,24.4
+0.111111111,Transition rate,Gravid and Ovipositing Adults,14
+0.181818182,Transition rate,Gravid and Ovipositing Adults,18.5
+0.181818182,Transition rate,Gravid and Ovipositing Adults,19
+0.2,Transition rate,Gravid and Ovipositing Adults,21
+0.222222222,Transition rate,Gravid and Ovipositing Adults,21.5
+0.222222222,Transition rate,Gravid and Ovipositing Adults,23.5
+0.25,Transition rate,Gravid and Ovipositing Adults,23.5
+0.25,Transition rate,Gravid and Ovipositing Adults,24.5

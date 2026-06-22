@@ -17,7 +17,7 @@ Dataset-specific licensing and attribution information is provided below.
 Created by the authors by collating relevant data from published literature of *Cx. annulirostris*.
 Used in `Cx_annulirostris_temp_params.ipynb` for parameter fitting.
 
-License: CC BY 4.0.
+Released under CC BY 4.0 to the extent permitted by underlying sources.
 
 ### Kanyapella.csv
 Derived from SILO climate data.

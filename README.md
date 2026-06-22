@@ -1,23 +1,23 @@
 # 🌟 Highlights
 
 - This repository provides the required files to replicate the results and figures in the associated preprint: [Modelling *Culex annulirostris* population dynamics at a temperate semi-arid site in the Murray Valley, south-eastern Australia](https://doi.org/10.21203/rs.3.rs-9879430/v1).
-- This repository implements a population dynamics model of the mosquito species *Culex annulirostris* in the Murray Valley, south-eastern Australia.
+- It implements a population dynamics model of the mosquito species *Culex annulirostris* in the Murray Valley, south-eastern Australia.
 
 
 # ℹ️ Overview
 
 ## License
 
-The source code in this repository is licensed under the MIT License.
+The source code in this repository is licensed under the Apache 2.0 License.
 
-Dataset-specific licensing and attribution information is provided below.
+Dataset-specific licensing, attribution, and provenance information is provided below.
 
 ## Datasets
 ### Params_data.csv
-Created by the authors by collating relevant data from published literature of *Cx. annulirostris*.
+Created by the authors by deriving and compiling relevant data from published literature of *Cx. annulirostris*, including transformation of reported values into standardized model parameters for fitting.
 Used in `Cx_annulirostris_temp_params.ipynb` for parameter fitting.
 
-Released under CC BY 4.0 to the extent permitted by underlying sources.
+Released under CC BY 4.0 where permitted by underlying sources.
 
 ### Kanyapella.csv
 Derived from SILO climate data.
